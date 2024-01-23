@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Lilly :
+# 💫 Hi there, I'm Lilly!
 I'm a Software Developer passionate about open source!
 
 
