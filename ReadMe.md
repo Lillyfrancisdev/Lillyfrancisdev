@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Lilly :
 I'm a Software Developer passionate about open source!
 
 
-## 🌐 Socials:
+## 🌐 Where to find me?
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Lillyfranciscasouz/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lilly_appetite?igsh=YzVkODRmOTdmMw%3D%3D&utm_source=qr) 
 
 # 💻 Tech Stack:
